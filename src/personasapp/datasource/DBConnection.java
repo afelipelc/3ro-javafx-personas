@@ -9,7 +9,7 @@ import java.sql.SQLException;
 
 public class DBConnection {
     //MySQL Server credetials
-    private static String host ="localhost", db="personasDB", user = "root", password = "felipe";
+    private static String host ="localhost", db="personasDB", user = "root", password = "";
 
 
     //JDBC connection path to MySQL Server
